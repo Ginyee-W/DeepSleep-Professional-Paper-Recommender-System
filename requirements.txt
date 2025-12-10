@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai>=1.0.0
+networkx
+scikit-learn
+streamlit-echarts
